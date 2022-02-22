@@ -1,0 +1,283 @@
+[
+  {
+    "id": "1",
+    "firstName": "Bob",
+    "lastName": "James",
+    "dateOfBirth": "2013-03-06",
+    "address": [
+      {
+        "id": "1",
+        "studentId": "1",
+        "line1": "testing",
+        "line2": "24A",
+        "city": "New York",
+        "state": "New York",
+        "zip": "12694"
+      }
+    ],
+    "allergies": [
+      {
+        "id": "2",
+        "studentId": "1",
+        "severity": "Medium",
+        "type": "Medicine",
+        "description": "Penicillin"
+      },
+      {
+        "id": "4",
+        "studentId": "1",
+        "severity": "High",
+        "type": "Food",
+        "description": "Peanuts"
+      },
+      {
+        "severity": "High",
+        "type": "Environmental",
+        "description": "Dust",
+        "id": "15",
+        "studentId": "1"
+      }
+    ],
+    "submissions": []
+  },
+  {
+    "id": "2",
+    "firstName": "Joe",
+    "lastName": "Smith",
+    "dateOfBirth": "2013-05-16",
+    "address": [
+      {
+        "id": "2",
+        "studentId": "2",
+        "line1": "10 Spring Street",
+        "line2": "Apt. 2",
+        "city": "New York",
+        "state": "New York",
+        "zip": "12587"
+      }
+    ],
+    "allergies": [],
+    "submissions": []
+  },
+  {
+    "id": "3",
+    "firstName": "Pam",
+    "lastName": "Franklin",
+    "dateOfBirth": "2013-08-12",
+    "address": [
+      {
+        "id": "3",
+        "studentId": "3",
+        "line1": "02 Dean Street",
+        "line2": "Apt 5",
+        "city": "Brooklyn",
+        "state": "New York",
+        "zip": "12698"
+      }
+    ],
+    "allergies": [
+      {
+        "id": "12",
+        "studentId": "3",
+        "severity": "Medium",
+        "type": "Food",
+        "description": "Burritos"
+      }
+    ],
+    "submissions": []
+  },
+  {
+    "id": "4",
+    "firstName": "Chris",
+    "lastName": "Lester",
+    "dateOfBirth": "2013-12-30",
+    "address": [
+      {
+        "id": "4",
+        "studentId": "4",
+        "line1": "64 River Lane",
+        "line2": "",
+        "city": "White Plains",
+        "state": "New York",
+        "zip": "12015"
+      }
+    ],
+    "allergies": [],
+    "submissions": []
+  },
+  {
+    "id": "5",
+    "firstName": "Emily",
+    "lastName": "Giove",
+    "dateOfBirth": "2013-11-06",
+    "address": [
+      {
+        "id": "5",
+        "studentId": "5",
+        "line1": "67 Main Drive",
+        "line2": "new line 21",
+        "city": "New Rochelle",
+        "state": "New York",
+        "zip": "10025"
+      }
+    ],
+    "allergies": [],
+    "submissions": []
+  },
+  {
+    "id": "6",
+    "firstName": "Caroline",
+    "lastName": "Smith",
+    "dateOfBirth": "2013-09-27",
+    "address": [
+      {
+        "id": "6",
+        "studentId": "6",
+        "line1": "133 Bentley Ave",
+        "line2": "Apt 31",
+        "city": "Newark",
+        "state": "New Jersey",
+        "zip": "15478"
+      }
+    ],
+    "allergies": [
+      {
+        "id": "14",
+        "studentId": "6",
+        "severity": "Low",
+        "type": "Environmental",
+        "description": "Bees"
+      },
+      {
+        "severity": "Medium",
+        "type": "Environmental",
+        "description": "pollen",
+        "id": "16",
+        "studentId": "6"
+      }
+    ],
+    "submissions": []
+  },
+  {
+    "id": "7",
+    "firstName": "Tina",
+    "lastName": "Duggin",
+    "dateOfBirth": "2013-06-08",
+    "address": [
+      {
+        "id": "7",
+        "studentId": "7",
+        "line1": "89 Walnut Street",
+        "line2": "",
+        "city": "Princeton",
+        "state": "New Jersey",
+        "zip": "19455"
+      }
+    ],
+    "allergies": [
+      {
+        "id": "6",
+        "studentId": "7",
+        "severity": "Medium",
+        "type": "Food",
+        "description": "Peanuts"
+      },
+      {
+        "id": "9",
+        "studentId": "7",
+        "severity": "Low",
+        "type": "Medicine",
+        "description": "Penicillin"
+      }
+    ],
+    "submissions": []
+  },
+  {
+    "id": "8",
+    "firstName": "Alex",
+    "lastName": "Fang",
+    "dateOfBirth": "2013-08-13",
+    "address": [
+      {
+        "id": "8",
+        "studentId": "8",
+        "line1": "1 Fremont Street",
+        "line2": "Apt 3B",
+        "city": "Hoboken",
+        "state": "New Jersey",
+        "zip": "16684"
+      }
+    ],
+    "allergies": [],
+    "submissions": []
+  },
+  {
+    "id": "9",
+    "firstName": "Henry",
+    "lastName": "Steckel",
+    "dateOfBirth": "2013-08-08",
+    "address": [
+      {
+        "id": "9",
+        "studentId": "9",
+        "line1": "45 Willowy Drive",
+        "line2": "",
+        "city": "Greenwich",
+        "state": "Connecticut",
+        "zip": "10584"
+      }
+    ],
+    "allergies": [
+      {
+        "id": "13",
+        "studentId": "9",
+        "severity": "High",
+        "type": "Environmental",
+        "description": "Bees"
+      }
+    ],
+    "submissions": []
+  },
+  {
+    "id": "10",
+    "firstName": "Don",
+    "lastName": "Jones",
+    "dateOfBirth": "2013-03-26",
+    "studentId": "10",
+    "line1": "34 Vince Street",
+    "line2": "",
+    "city": "Hartfords",
+    "state": "Connecticut",
+    "zip": "32154",
+    "address": [
+      {
+        "id": "10",
+        "studentId": "10",
+        "line1": "34 Vince Lane",
+        "line2": "apt 3",
+        "city": "Hartford1",
+        "state": "Connecticut1",
+        "zip": "99999"
+      }
+    ],
+    "allergies": [
+      {
+        "id": "10",
+        "studentId": "10",
+        "severity": "Low",
+        "type": "Environment",
+        "description": "Bees"
+      }
+    ],
+    "submissions": []
+  },
+  {
+    "firstName": "Karan",
+    "lastName": "Aditya",
+    "dateOfBirth": "1993-09-03",
+    "id": "11",
+    "address": [],
+    "allergies": [],
+    "submissions": []
+  }
+]
